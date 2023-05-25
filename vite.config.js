@@ -18,5 +18,5 @@ export default defineConfig({
     manifest: true,
   },
   // Se agrega la base carpeta donde se encuentra el proyecto
-  base: '/vite_test/',
+  base: '/vite-project/',
 });
