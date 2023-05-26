@@ -58,7 +58,7 @@ Debe crear en la raiz del proyecto la carpeta `.github` y la sub carpeta `workfl
 ### Mayor información
 
 [ REFERENCIA https://vitejs.dev/guide/static-deploy.html ](https://vitejs.dev/guide/static-deploy.html)
-
+## importante que este archivo YML tenga el nomrbe de la rama que contiene el proyecto que ademas este bien ordenado y espaciado de lo contrario generara problemas.
 ```yml
 
     # Simple workflow for deploying static content to GitHub Pages
